@@ -12,10 +12,9 @@ export default {
     error: {
       type: Object,
       default() {
-        return []
+        return {}
       },
     },
   },
-  layout: 'error',
 }
 </script>

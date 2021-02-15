@@ -10,6 +10,10 @@
     "lint:js": "eslint --ext .js,.vue --ignore-path .gitignore .",
     "lint": "yarn lint:js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorginhodev/boilerplate-nuxt.git"
+  },
   "dependencies": {
     "@nuxtjs/axios": "^5.13.1",
     "core-js": "^3.8.3",

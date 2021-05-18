@@ -15,7 +15,7 @@
     "url": "git+https://github.com/jorginhodev/boilerplate-nuxt.git"
   },
   "dependencies": {
-    "@nuxtjs/axios": "^5.13.1",
+    "@nuxtjs/axios": "^5.13.4",
     "core-js": "^3.12.1",
     "nuxt": "^2.15.6"
   },

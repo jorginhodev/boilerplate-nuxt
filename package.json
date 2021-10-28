@@ -29,7 +29,7 @@
     "eslint-plugin-prettier": "^4.0.0",
     "fibers": "^5.0.0",
     "prettier": "^2.4.1",
+    "sass-loader": "^12.3.0"
     "sass": "^1.43.4",
-    "sass-loader": "^12.1.0"
   }
 }
